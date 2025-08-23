@@ -7,7 +7,7 @@ The site is designed to be **simple, elegant, and professional**, showcasing my 
 
 ## 📌 Pages  
 - **Home** – About me, education, skills  
-- **Hobbies** – Gaming 🎮, Building 🏗️, Music 🎵, Coding 💻  
+- **Hobbies** – Gaming 🎮, Building 🤖, Music 🎵, Coding 💻  
 - **Contact** – Email, LinkedIn, GitHub  
 
 ---
